@@ -34,3 +34,19 @@ footer {
     border-bottom: 1px ridge;
     min-height: 200px;
 }
+
+.tab-content{
+    border: 1px solid #DDD;
+    border-top: none;
+    padding-top: none;
+    padding: 10px;
+}
+
+section .nav-link:hover{
+    background-color: rgb(71, 71, 238);
+    color: white;
+}
+
+.accordion-button{
+    background-color: #d3d3d3;
+}
