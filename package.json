@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/whiteRabbit1987/nucamp-site-week3#readme",
   "devDependencies": {
+    "@parcel/transformer-sass": "^2.12.0",
     "parcel": "^2.12.0"
   },
   "dependencies": {
